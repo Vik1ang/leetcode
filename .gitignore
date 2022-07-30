@@ -1565,3 +1565,10 @@ Golang/.idea/git_toolbox_prj.xml
 Golang/.idea/Golang.iml
 Golang/.idea/modules.xml
 Golang/.idea/vcs.xml
+Python/.idea/.gitignore
+Python/.idea/misc.xml
+Python/.idea/modules.xml
+Python/.idea/Python.iml
+Python/.idea/vcs.xml
+Python/.idea/inspectionProfiles/profiles_settings.xml
+Python/.idea/sonarlint/issuestore/index.pb
