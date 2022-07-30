@@ -1560,3 +1560,8 @@ doc/api/
 .flutter-plugins
 .flutter-plugins-dependencies
 
+Golang/.idea/.gitignore
+Golang/.idea/git_toolbox_prj.xml
+Golang/.idea/Golang.iml
+Golang/.idea/modules.xml
+Golang/.idea/vcs.xml
