@@ -1562,3 +1562,8 @@ doc/api/
 Golang/.idea/**
 Python/.idea/**
 Rust/.idea/**
+Kotlin/Kotliin/.idea/**
+Kotlin/Kotliin/gradlew
+Kotlin/Kotliin/gradlew.bat
+Kotlin/Kotliin/gradle/wrapper/gradle-wrapper.jar
+Kotlin/Kotliin/gradle/wrapper/gradle-wrapper.properties
