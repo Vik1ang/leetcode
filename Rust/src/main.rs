@@ -1,5 +1,6 @@
 mod data_structure;
 mod hashtable;
+mod linkedlist;
 mod tree;
 
 fn main() {
