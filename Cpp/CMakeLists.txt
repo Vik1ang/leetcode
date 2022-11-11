@@ -6,4 +6,6 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17 -fPIC -Wall -m64")
 
 project("leetcode_cpp")
 
+include_directories(include)
+
 add_subdirectory(hash)
