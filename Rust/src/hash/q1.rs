@@ -20,4 +20,6 @@ impl Q1 for Solution1 {
     }
 }
 
-pub fn solution() {}
+pub fn solution() {
+    println!("q1")
+}
