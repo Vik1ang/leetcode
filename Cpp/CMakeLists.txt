@@ -9,3 +9,4 @@ project("leetcode_cpp")
 include_directories(include)
 
 add_subdirectory(hash)
+add_subdirectory(linked_list)
